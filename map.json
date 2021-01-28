@@ -140,7 +140,7 @@
          "height":121,
          "id":2,
          "name":"Bottom",
-         "opacity":0.64,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":102,
